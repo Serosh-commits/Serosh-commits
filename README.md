@@ -2,11 +2,7 @@
   
 # 🚀 Systems Programmer & Quantum Explorer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Systems+Programming+Wizard;Low-Level+Code+Enthusiast;Physics+%26+Rocket+Science+Lover;Arch+Linux+Power+User" alt="Typing SVG" />
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Serosh-commits&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Serosh-commits)
-[![GitHub followers](https://img.shields.io/github/followers/Serosh-commits?style=for-the-badge&color=00d9ff&labelColor=0a0e27)](https://github.com/Serosh-commits?tab=followers)
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Systems+Programming;Low-Level Programmer;Physics+%26+Rocket+Science;BTW+Arch+" alt="Typing SVG" />
 </div>
 
 ---
