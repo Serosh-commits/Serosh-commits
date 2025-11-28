@@ -1,50 +1,199 @@
 <div align="center">
+  
+# 🚀 Systems Programmer & Quantum Explorer
 
-<!-- Cyberpunk glitch typing -->
-<img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&size=36&duration=4000&pause=800&color=00FFFF&background=0D1117&center=true&vCenter=true&multiline=true&width=900&lines=%F0%9F%91%8B+Serosh-commits;Haskell+%E2%86%92+C%2B%2B+%E2%86%92+ASM+%E2%86%92+Go;Quantum+circuits+%26+rocket+trajectories;Arch+Linux+%7C+Neovim+%7C+btw" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Systems+Programming+Wizard;Low-Level+Code+Enthusiast;Physics+%26+Rocket+Science+Lover;Arch+Linux+Power+User" alt="Typing SVG" />
 
-<br/>
+[![Profile Views](https://komarev.com/ghpvc/?username=Serosh-commits&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Serosh-commits)
+[![GitHub followers](https://img.shields.io/github/followers/Serosh-commits?style=for-the-badge&color=00d9ff&labelColor=0a0e27)](https://github.com/Serosh-commits?tab=followers)
 
-<!-- Animated cyberpunk scanline + floating particles -->
-<svg width="100%" height="240" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg">
-  <!-- Neon wave -->
-  <path d="M0,120 Q300,60 600,120 T1200,120" fill="none" stroke="#00FFFF" stroke-width="4" opacity="0.8">
-    <animate attributeName="d" values="M0,120 Q300,60 600,120 T1200,120;M0,120 Q300,180 600,120 T1200,120;M0,120 Q300,60 600,120 T1200,120" dur="16s" repeatCount="indefinite"/>
-  </path>
-  <!-- Floating bits -->
-  <rect x="150" y="80" width="8" height="8" fill="#FF00FF"><animate attributeName="y" values="80;60;80" dur="3s" repeatCount="indefinite"/></rect>
-  <rect x="450" y="100" width="6" height="6" fill="#00FF9D"><animate attributeName="y" values="100;130;100" dur="4s" repeatCount="indefinite"/></rect>
-  <rect x="800" y="90" width="10" height="10" fill="#FFFF00"><animate attributeName="y" values="90;70;90" dur="5s" repeatCount="indefinite"/></rect>
-  <!-- Scanlines -->
-  <rect width="100%" height="2" fill="#00FFFF" opacity="0.06">
-    <animate attributeName="y" values="0;240;0" dur="8s" repeatCount="indefinite"/>
-  </rect>
-</svg>
+</div>
 
-<!-- CRT-style header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=Serosh-commits&fontSize=48&fontColor=00FFFF&animation=glitch" />
+---
 
-<br/><br/>
+## 👨‍💻 About Me
 
-<!-- Stats with cyberpunk theme -->
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=Serosh-commits&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00FFFF&text_color=ffffff&icon_color=00FF9D&ring_color=FF00FF" />
-<img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=Serosh-commits&theme=tokyonight&hide_border=true&stroke=00FFFF&ring=FF00FF&fire=FFFF00&currStreakLabel=00FFFF" />
+```typescript
+const systemsProgrammer = {
+  name: "YOUR_NAME",
+  role: "Systems Programmer",
+  location: "YOUR_LOCATION",
+  education: "Learning Rocket Science 🚀",
+  
+  interests: [
+    "Quantum Physics ⚛️",
+    "Rocket Science 🚀", 
+    "Low-Level Programming",
+    "Operating Systems",
+    "Physics Simulations"
+  ],
+  
+  currentlyLearning: ["Haskell", "Assembly", "TypeScript"],
+  
+  proficientIn: ["C", "C++", "Python", "Golang"],
+  
+  operatingSystem: "Arch Linux BTW 🐧",
+  
+  dailyWorkflow: {
+    editor: "Neovim",
+    terminal: "Alacritty",
+    versionControl: ["Git", "GitLab"],
+    shell: "Zsh"
+  }
+};
+```
 
-<br/>
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serosh-commits&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFFF&custom_title=Top+Languages" />
+## 🛠️ Tech Stack
 
-<br/><br/>
+### Core Languages
+<div align="center">
 
-### Current Stack
-<img src="https://skillicons.dev/icons?i=haskell,c,cpp,asm,go,python,ts,js,arch,linux,git,neovim,qemu,gdb,vim&perline=10&theme=dark" />
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-<br/>
+</div>
 
-```text
-Systems       → C / C++ / x86_64 Assembly / own kernel
-Functional    → Haskell (pure FP, monads, lazy eval)
-Backend       → Go • Python • TypeScript
-OS            → Arch Linux • Neovim + Tmux (Lua config)
-Physics       → Quantum circuits • Rocket trajectory math
-Tools         → Git • Make • QEMU • GDB
+### Currently Learning
+<div align="center">
+
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+### Tools & Environment
+<div align="center">
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Serosh-commits&show_icons=true&theme=react&hide_border=true&bg_color=0a0e27&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serosh-commits&layout=compact&theme=react&hide_border=true&bg_color=0a0e27&title_color=00d9ff&text_color=c9d1d9" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Serosh-commits&theme=react&hide_border=true&background=0a0e27&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Serosh-commits&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Serosh-commits&theme=react-dark&hide_border=true&bg_color=0a0e27&color=00d9ff&line=00d9ff&point=c9d1d9" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🔥 Projects Showcase
+
+### 🎯 Featured Repositories
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Serosh-commits&repo=PROJECT1&theme=react&hide_border=true&bg_color=0a0e27&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9)](https://github.com/Serosh-commits/P.A)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Serosh-commits&repo=PROJECT2&theme=react&hide_border=true&bg_color=0a0e27&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9)](https://github.com/Serosh-commits/inter-cpp)
+
+</div>
+
+---
+
+## 🎓 Learning Journey
+
+```mermaid
+graph LR
+    A[Systems Programming] --> B[C/C++]
+    A --> C[Python]
+    A --> D[Golang]
+    B --> E[Assembly]
+    E --> F[Low-Level Optimization]
+    C --> G[Scripting & Automation]
+    D --> H[Concurrent Systems]
+    I[Functional Programming] --> J[Haskell]
+    K[Web Development] --> L[TypeScript/JavaScript]
+    M[Physics] --> N[Quantum Computing]
+    M --> O[Rocket Science]
+```
+
+---
+
+## ⚡ Current Focus
+
+<div align="center">
+
+| Area | Status | Details |
+|------|--------|---------|
+| 🔧 Systems Programming | ⭐⭐⭐⭐⭐ | Expert in C/C++, Python, Golang |
+| 📚 Functional Programming | 🔄 Learning | Diving deep into Haskell |
+| 💻 Low-Level Programming | 🔄 Learning | Mastering Assembly |
+| 🌐 Web Development | 🔄 Learning | TypeScript & Modern JS |
+| ⚛️ Quantum Physics | 📖 Studying | Quantum mechanics & computing |
+| 🚀 Rocket Science | 📖 Studying | Orbital mechanics & propulsion |
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Serosh-commits-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Serosh-commits)
+[![Email](https://img.shields.io/badge/Email-janmejayapanda400@gmail.com-00d9ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Premature+optimization+is+the+root+of+all+evil&author=Donald+Knuth)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Serosh-commits/Serosh-commits/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 *"In the realm of bits and bytes, we build the future"*
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+**Made with 💙 and ⚡ by janmejaya panda**
+
+</div>
+
