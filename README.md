@@ -45,3 +45,41 @@
 │ OS           │ Arch Linux  • Neovim + Tmux (Lua)               │
 │ Physics      │ Quantum Mechanics • Relativity • Rocket Science   │
 └──────────────────────────────────────────────────────────────┘
+
+
+https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif
+
+Haskell quantum circuit simulator
+x86_64 ASM + C toy kernel
+Rocket trajectory optimizer (Python/C++)
+Dreaming in monads and registers
+
+
+
+
+
+https://github-readme-activity-graph.vercel.app/graph?username=Serosh-commits&theme=react&hide_border=true&bg_color=0d1117&color=00ff9d&line=00d4ff&point=ffffff&area=true
+
+
+
+https://github-profile-trophy.vercel.app/?username=Serosh-commits&theme=radical&no-frame=true&row=2
+
+
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Serosh-commits/Serosh-commits/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Serosh-commits/Serosh-commits/output/github-contribution-grid-snake.svg" />
+<img alt="snake" src="https://raw.githubusercontent.com/Serosh-commits/Serosh-commits/output/github-contribution-grid-snake.svg" />
+</picture>
+
+
+
+https://komarev.com/ghpvc/?username=Serosh-commits&label=Views&color=00d4ff&style=for-the-badge
+https://img.shields.io/github/followers/Serosh-commits?label=Follow&style=for-the-badge&color=00ff9d
+
+
+
+
+https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Launch+into+the+Quantum+Void&fontSize=90
+
+```
