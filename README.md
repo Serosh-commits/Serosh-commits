@@ -20,16 +20,16 @@ int main() {
 }
 ```
 
-- 🧠 **Systems Programmer** — low-level, kernels, interpreters  
-- 🐉 **Arch Linux (btw)**  
-- ⚛️ **Quantum Physics & Circuits learner**  
-- 🚀 **Rocket Science (orbital mechanics) learner**  
-- 🧵 **Proficient:** C • C++ • Python • Golang  
-- 🔥 **Learning:** Haskell • Assembly • TypeScript  
+- **Systems Programmer** — low-level, kernels, interpreters  
+-  **Arch Linux (btw)**  
+-  **Quantum Physics & Circuits learner**  
+-  **Rocket Science (orbital mechanics) learner**  
+-  **Proficient:** C • C++ • Python • Golang  
+-  **Learning:** Haskell • Assembly • TypeScript  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Core Languages
 <div align="center">
@@ -64,16 +64,6 @@ int main() {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Serosh-commits&show_icons=true&theme=react&hide_border=true&bg_color=0a0e27&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serosh-commits&layout=compact&theme=react&hide_border=true&bg_color=0a0e27&title_color=00d9ff&text_color=c9d1d9"/>
-
-</div>
-
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Serosh-commits&theme=react&hide_border=true&background=0a0e27&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff"/>
@@ -82,17 +72,7 @@ int main() {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Serosh-commits&theme=discord&no-frame=true&no-bg=true&row=1&column=7"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -102,7 +82,7 @@ int main() {
 
 ---
 
-## 🔥 My Projects
+##  My Projects
 
 ### Featured
 <div align="center">
@@ -121,12 +101,12 @@ int main() {
 
 | Area | Status | Details |
 |------|--------|---------|
-| 🔧 Systems Programming | ⭐⭐⭐⭐⭐ | C, C++, Python, Golang |
-| 📚 Functional Programming | 🔄 Learning | Haskell |
-| 🔩 Low-Level | 🔄 Learning | Assembly |
-| 🌐 Web | 🔄 Learning | TypeScript, JS |
-| ⚛️ Quantum Physics | 📖 | Qubits, circuits |
-| 🚀 Rocket Science | 📖 | Orbital mechanics |
+|  Systems Programming | ⭐⭐⭐⭐⭐ | C, C++, Python, Golang |
+|  Functional Programming | 🔄 Learning | Haskell |
+|  Low-Level | 🔄 Learning | Assembly |
+|  Web | 🔄 Learning | TypeScript, JS |
+|  Quantum Physics | 📖 | Qubits, circuits |
+|  Rocket Science | 📖 | Orbital mechanics |
 
 </div>
 
