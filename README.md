@@ -114,7 +114,7 @@ int main() {
 
 ---
 
-## Random Dev Quote
+## 
 
 <div align="center">
 
