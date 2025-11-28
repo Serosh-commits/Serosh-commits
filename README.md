@@ -114,15 +114,6 @@ int main() {
 
 ---
 
-## 
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
----
 
 <div align="center">
 
