@@ -95,7 +95,7 @@ int main() {
 
 ---
 
-## ⚡ Current Focus
+## Current Focus
 
 <div align="center">
 
@@ -114,7 +114,7 @@ int main() {
 
 ---
 
-## 💭 Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
 
@@ -126,7 +126,7 @@ int main() {
 
 <div align="center">
 
-### 🚀 *"In the realm of bits and bytes, we build the future."*
+###  *"In the realm of bits and bytes, we build the future."*
 
 Made with ⚡ by **Serosh**
 
