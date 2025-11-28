@@ -2,7 +2,7 @@
 
 # Systems Programmer & Quantum Explorer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Systems+Programming+Wizard;Low-Level+Code+Enjoyer;Physics+%26+Rocket+Science+Learner;Arch+Linux+User" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Systems+Programming;Low-Level+Code+Enjoyer;Physics+%26+Rocket+Science+Learner;Arch+Linux+User" />
 
 </div>
 
