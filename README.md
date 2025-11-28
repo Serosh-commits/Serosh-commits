@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Systems Programmer & Quantum Explorer
+# Systems Programmer & Quantum Explorer
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Systems+Programming+Wizard;Low-Level+Code+Enjoyer;Physics+%26+Rocket+Science+Learner;Arch+Linux+User" />
 
@@ -101,7 +101,7 @@ int main() {
 
 | Area | Status | Details |
 |------|--------|---------|
-|  Systems Programming | ⭐⭐⭐⭐⭐ | C, C++, Python, Golang |
+|  Systems Programming |  | C, C++, Python, Golang |
 |  Functional Programming | 🔄 Learning | Haskell |
 |  Low-Level | 🔄 Learning | Assembly |
 |  Web | 🔄 Learning | TypeScript, JS |
@@ -111,14 +111,6 @@ int main() {
 </div>
 
 ---
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Serosh-commits/Serosh-commits/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
 ---
 
