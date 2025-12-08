@@ -1,10 +1,10 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Serosh-commits;System+Programmer;Quantum+and+Rockets;Arch+Linux+%7C+Neovim+%7C+btw" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Serosh-commits;System+Programmer;Quantum+and+Rockets;Arch+btw" alt="Typing SVG" />
 
   <br/>
 
-  <img src="https://media.giphy.com/media/f3iwJFOvoEqgJjC3vD/giphy.gif" width="100%" alt="System Breach">
+  <img src="https://media1.tenor.com/m/igbavBMPgjAAAAAC/astronaut-space.gif" width="100%" alt="Astronaut Space">
 
 </div>
 
