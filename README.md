@@ -4,7 +4,7 @@
 
   <br/>
 
-  <img src="https://media1.tenor.com/m/igbavBMPgjAAAAAC/astronaut-space.gif" width="100%" alt="Astronaut Space">
+  <img src="./hackers.jpg" width="100%" alt="Hackers">
 
 </div>
 
@@ -60,11 +60,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Serosh-commits&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF" width="100%" alt="Activity Graph" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Serosh-commits&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</div>
 
 <br/>
 
@@ -78,3 +73,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Serosh-commits&style=for-the-badge&color=00FF00&label=VISITORS" alt="Visitor Counter" />
 </div>
+
