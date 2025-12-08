@@ -5,7 +5,7 @@
   <br/>
 
   <img src="./hackers.jpg" width="48%" alt="Hackers Photo" />
-  <img src="https://media1.tenor.com/m/UnnOHGk1ISMAAAAC/hackers-1995-movie.gif" width="48%" alt="Hackers GIF" />
+  <img src="./hackers.gif" width="48%" alt="Hackers GIF" />
 
 </div>
 
