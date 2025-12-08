@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Serosh-commits;System+Programmer;Quantum+%26+Rockets;Arch+Linux+%7C+Neovim+%7C+btw" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Serosh-commits;System+Programmer;Quantum+and+Rockets;Arch+Linux+%7C+Neovim+%7C+btw" alt="Typing SVG" />
 
   <br/>
 
@@ -69,6 +69,7 @@
 <br/>
 
 <div align="center">
+  <!-- Snake Animation (Requires GitHub Action to run first) -->
   <img src="https://raw.githubusercontent.com/Serosh-commits/Serosh-commits/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 </div>
 
@@ -77,4 +78,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Serosh-commits&style=for-the-badge&color=00FF00&label=VISITORS" alt="Visitor Counter" />
 </div>
-
