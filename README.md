@@ -1,74 +1,69 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Serosh-commits;System+Programmer;Quantum+circuits+%26+rocket+trajectories;Arch+Linux+%7C+Neovim+%7C+btw" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=WAKE+UP,+NEO...;Serosh-commits;System+Programmer;Quantum+%26+Rockets;Arch+Linux+%7C+Neovim+%7C+btw" alt="Typing SVG" />
 
   <br/>
 
-  <img src="./wave.svg" width="100%" alt="Quantum Wave">
-
-</div>
-
-<div align="center">
-
-  <a href="https://github.com/Serosh-commits">
-    <img src="https://github-readme-stats.vercel.app/api?username=Serosh-commits&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00FFFF&icon_color=FF00FF" height="150" alt="stats" />
-  </a>
-  <a href="https://github.com/Serosh-commits">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serosh-commits&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00FFFF&text_color=FFFFFF" height="150" alt="languages" />
-  </a>
-  <a href="https://github.com/Serosh-commits">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Serosh-commits&theme=tokyonight&hide_border=true&background=00000000&ring=FF00FF&fire=00FFFF&currStreakLabel=00FFFF" height="150" alt="streak" />
-  </a>
+  <img src="./matrix.svg" width="100%" alt="Matrix Rain">
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Haskell-000000?style=flat-square&logo=haskell&logoColor=00FFFF" alt="Haskell" />
-  <img src="https://img.shields.io/badge/-C-000000?style=flat-square&logo=c&logoColor=00FFFF" alt="C" />
-  <img src="https://img.shields.io/badge/-C++-000000?style=flat-square&logo=c%2B%2B&logoColor=00FFFF" alt="C++" />
-  <img src="https://img.shields.io/badge/-ASM-000000?style=flat-square&logo=nasm&logoColor=00FFFF" alt="ASM" />
-  <img src="https://img.shields.io/badge/-Go-000000?style=flat-square&logo=go&logoColor=00FFFF" alt="Go" />
-  <img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=00FFFF" alt="Python" />
-  <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=00FFFF" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Arch_Linux-000000?style=flat-square&logo=arch-linux&logoColor=00FFFF" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=00FFFF" alt="Linux" />
-  <img src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=00FFFF" alt="Git" />
-  <img src="https://img.shields.io/badge/-Neovim-000000?style=flat-square&logo=neovim&logoColor=00FFFF" alt="Neovim" />
-  <img src="https://img.shields.io/badge/-QEMU-000000?style=flat-square&logo=qemu&logoColor=00FFFF" alt="QEMU" />
-  <img src="https://img.shields.io/badge/-GDB-000000?style=flat-square&logo=gnu&logoColor=00FFFF" alt="GDB" />
+  <!-- Stats Section with Neon Borders -->
+  <a href="https://github.com/Serosh-commits">
+    <img src="https://github-readme-stats.vercel.app/api?username=Serosh-commits&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" height="160" alt="stats" />
+  </a>
+  <a href="https://github.com/Serosh-commits">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serosh-commits&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" height="160" alt="languages" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <pre>
-  ╔══════════════════════════════════════════════════════════════════════╗
-  ║                       CURRENT_OPERATIONS                             ║
-  ╠══════════════════════════════════════════════════════════════════════╣
-  ║  > KERNEL_DEV      ::  C / C++ / ASM (LainOS/Abyss)                  ║
-  ║  > LEARNING        ::  Haskell (Category Theory)                     ║
-  ║  > SIMULATION      ::  Rocket Trajectories / Quantum Circuits        ║
-  ║  > ENVIRONMENT     ::  Arch Linux / Neovim / Tmux                    ║
-  ╚══════════════════════════════════════════════════════════════════════╝
+  <img src="https://img.shields.io/badge/-Haskell-0D1117?style=for-the-badge&logo=haskell&logoColor=00FF00" alt="Haskell" />
+  <img src="https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=00FF00" alt="C" />
+  <img src="https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00FF00" alt="C++" />
+  <img src="https://img.shields.io/badge/-ASM-0D1117?style=for-the-badge&logo=nasm&logoColor=00FF00" alt="ASM" />
+  <img src="https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&logo=go&logoColor=00FF00" alt="Go" />
+  <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF00" alt="Python" />
+  <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00FF00" alt="TypeScript" />
+  <br/>
+  <img src="https://img.shields.io/badge/-Arch_Linux-0D1117?style=for-the-badge&logo=arch-linux&logoColor=00FF00" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FF00" alt="Linux" />
+  <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF00" alt="Git" />
+  <img src="https://img.shields.io/badge/-Neovim-0D1117?style=for-the-badge&logo=neovim&logoColor=00FF00" alt="Neovim" />
+  <img src="https://img.shields.io/badge/-QEMU-0D1117?style=for-the-badge&logo=qemu&logoColor=00FF00" alt="QEMU" />
+  <img src="https://img.shields.io/badge/-GDB-0D1117?style=for-the-badge&logo=gnu&logoColor=00FF00" alt="GDB" />
+</div>
+
+<br/>
+
+<div align="center">
+  <pre style="color: #00FF00; background-color: #0D1117; padding: 20px; border: 1px solid #00FF00; border-radius: 5px; box-shadow: 0 0 10px #00FF00;">
+  ┌──────────────────────────────────────────────────────────────────────┐
+  │                       CURRENT_OPERATIONS                             │
+  ├──────────────────────────────────────────────────────────────────────┤
+  │  > KERNEL_DEV      ::  C / C++ / ASM (LainOS/Abyss)                  │
+  │  > LEARNING        ::  Haskell (Category Theory)                     │
+  │  > SIMULATION      ::  Rocket Trajectories / Quantum Circuits        │
+  │  > ENVIRONMENT     ::  Arch Linux / Neovim / Tmux                    │
+  └──────────────────────────────────────────────────────────────────────┘
   </pre>
 </div>
 
-<div align="right">
-  <img src="https://media.giphy.com/media/3o7btQ8jDTPLAmXWl2/giphy.gif" width="100" alt="Space" style="opacity: 0.7; border-radius: 10px;" />
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Serosh-commits&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Serosh-commits&theme=tokyo-night&hide_border=true&bg_color=00000000&color=00FFFF&line=FF00FF&point=FFFFFF" width="100%" alt="Activity Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Serosh-commits&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Serosh-commits&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </div>
 
 <br/>
@@ -80,15 +75,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Serosh-commits&style=flat-square&color=00FFFF&label=VISITORS" alt="Visitor Counter" />
-  <img src="https://img.shields.io/github/followers/Serosh-commits?style=flat-square&color=FF00FF&label=FOLLOWERS&logo=github" alt="Followers" />
-</div>
-
-<br/>
-
-<div align="center">
-  <p style="color: #00FFFF; font-family: 'Courier New', monospace; font-size: 12px;">
-    "The universe is just a complex system of interacting fields. We are merely observers of the state changes."
-  </p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=60&section=footer&animation=fadeIn" width="100%" alt="Footer" />
+  <img src="https://komarev.com/ghpvc/?username=Serosh-commits&style=for-the-badge&color=00FF00&label=VISITORS" alt="Visitor Counter" />
 </div>
