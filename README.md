@@ -4,7 +4,8 @@
 
   <br/>
 
-  <img src="./hackers.jpg" width="100%" alt="Hackers">
+  <img src="./hackers.jpg" width="48%" alt="Hackers Photo" />
+  <img src="https://media1.tenor.com/m/UnnOHGk1ISMAAAAC/hackers-1995-movie.gif" width="48%" alt="Hackers GIF" />
 
 </div>
 
@@ -62,6 +63,11 @@
 
 
 <br/>
+
+<div align="center">
+  <!-- Snake Animation (Requires GitHub Action to run first) -->
+  <img src="https://raw.githubusercontent.com/Serosh-commits/Serosh-commits/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+</div>
 
 <br/>
 
