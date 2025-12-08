@@ -1,12 +1,10 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Serosh-commits;Haskell+%E2%86%92+C%2B%2B+%E2%86%92+ASM+%E2%86%92+Go;Quantum+circuits+%26+rocket+trajectories;Arch+Linux+%7C+Neovim+%7C+btw" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Serosh-commits;System+Programmer;Quantum+circuits+%26+rocket+trajectories;Arch+Linux+%7C+Neovim+%7C+btw" alt="Typing SVG" />
 
   <br/>
 
   <img src="./wave.svg" width="100%" alt="Quantum Wave">
-
-  <h2 style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF;">SYSTEM STATUS: ONLINE</h2>
 
 </div>
 
@@ -27,7 +25,19 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=haskell,c,cpp,asm,go,python,ts,arch,linux,git,neovim,qemu,gdb&theme=dark" alt="Skills" />
+  <img src="https://img.shields.io/badge/-Haskell-000000?style=flat-square&logo=haskell&logoColor=00FFFF" alt="Haskell" />
+  <img src="https://img.shields.io/badge/-C-000000?style=flat-square&logo=c&logoColor=00FFFF" alt="C" />
+  <img src="https://img.shields.io/badge/-C++-000000?style=flat-square&logo=c%2B%2B&logoColor=00FFFF" alt="C++" />
+  <img src="https://img.shields.io/badge/-ASM-000000?style=flat-square&logo=nasm&logoColor=00FFFF" alt="ASM" />
+  <img src="https://img.shields.io/badge/-Go-000000?style=flat-square&logo=go&logoColor=00FFFF" alt="Go" />
+  <img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=00FFFF" alt="Python" />
+  <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=00FFFF" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-Arch_Linux-000000?style=flat-square&logo=arch-linux&logoColor=00FFFF" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=00FFFF" alt="Linux" />
+  <img src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=00FFFF" alt="Git" />
+  <img src="https://img.shields.io/badge/-Neovim-000000?style=flat-square&logo=neovim&logoColor=00FFFF" alt="Neovim" />
+  <img src="https://img.shields.io/badge/-QEMU-000000?style=flat-square&logo=qemu&logoColor=00FFFF" alt="QEMU" />
+  <img src="https://img.shields.io/badge/-GDB-000000?style=flat-square&logo=gnu&logoColor=00FFFF" alt="GDB" />
 </div>
 
 <br/>
@@ -64,7 +74,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/Serosh-commits/Serosh-commits/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Serosh-commits/Serosh-commits/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 </div>
 
 <br/>
