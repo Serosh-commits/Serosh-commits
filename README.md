@@ -1,10 +1,10 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=WAKE+UP,+NEO...;Serosh-commits;System+Programmer;Quantum+%26+Rockets;Arch+btw" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Serosh-commits;System+Programmer;Quantum+%26+Rockets;Arch+Linux+%7C+Neovim+%7C+btw" alt="Typing SVG" />
 
   <br/>
 
-  <img src="./matrix.svg" width="100%" alt="Matrix Rain">
+  <img src="https://media.giphy.com/media/f3iwJFOvoEqgJjC3vD/giphy.gif" width="100%" alt="System Breach">
 
 </div>
 
@@ -77,3 +77,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Serosh-commits&style=for-the-badge&color=00FF00&label=VISITORS" alt="Visitor Counter" />
 </div>
+
