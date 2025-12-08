@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=WAKE+UP,+NEO...;Serosh-commits;System+Programmer;Quantum+%26+Rockets;Arch+Linux+%7C++%7C+btw" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=WAKE+UP,+NEO...;Serosh-commits;System+Programmer;Quantum+%26+Rockets;Arch+Linux+btw" alt="Typing SVG" />
 
   <br/>
 
