@@ -5,7 +5,7 @@
   <br/>
 
   <img src="./hackers.jpg" width="48%" alt="Hackers Photo" />
-  <img src="https://media.giphy.com/media/B4dt6rXq6nChm/giphy.gif" width="48%" alt="Hackers GIF" />
+  <img src="./hackers.gif" width="48%" alt="Hackers GIF" />
 
 </div>
 
