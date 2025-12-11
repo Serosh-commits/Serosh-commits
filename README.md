@@ -58,20 +58,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Serosh-commits&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF" width="100%" alt="Activity Graph" />
-</div>
-
-
-<br/>
-
-<div align="center">
-  <!-- Snake Animation (Requires GitHub Action to run first) -->
-  <img src="https://raw.githubusercontent.com/Serosh-commits/Serosh-commits/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Serosh-commits&style=for-the-badge&color=00FF00&label=VISITORS" alt="Visitor Counter" />
 </div>
 
